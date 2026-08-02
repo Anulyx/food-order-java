@@ -1,0 +1,4 @@
+adam,1234,customer
+liana,admin123,manager
+rider1,rider123,delivery
+Meen321,Meen2324,manager

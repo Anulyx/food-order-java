@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=username\ password
+comment1.target=Customer(java.lang.String,\ java.lang.String)
+comment2.params=menu
+comment2.target=void\ placeOrder(Menu)
+comment3.params=
+comment3.target=void\ viewOrders()
+comment4.params=
+comment4.target=java.util.ArrayList\ getOrders()
+comment5.params=
+comment5.target=void\ saveOrdersToFile()
+numComments=6

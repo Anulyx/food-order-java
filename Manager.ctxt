@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=username\ password
+comment1.target=Manager(java.lang.String,\ java.lang.String)
+comment2.params=menu\ index\ newName\ newPrice
+comment2.target=void\ updateMenu(Menu,\ int,\ java.lang.String,\ double)
+comment3.params=menu\ filename
+comment3.target=void\ saveMenuToFile(Menu,\ java.lang.String)
+comment4.params=customer
+comment4.target=void\ viewOrders(Customer)
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=username\ password
+comment2.target=java.lang.String\ login(java.lang.String,\ java.lang.String)
+comment3.params=username\ password\ role
+comment3.target=boolean\ register(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=username
+comment4.target=boolean\ usernameExists(java.lang.String)
+comment5.params=sc\ customer\ menu
+comment5.target=void\ handleCustomer(java.util.Scanner,\ Customer,\ Menu)
+comment6.params=sc\ manager\ menu
+comment6.target=void\ handleManager(java.util.Scanner,\ Manager,\ Menu)
+comment7.params=sc\ dp
+comment7.target=void\ handleDelivery(java.util.Scanner,\ DeliveryPerson)
+numComments=8
